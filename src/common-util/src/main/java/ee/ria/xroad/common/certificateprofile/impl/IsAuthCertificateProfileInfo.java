@@ -29,7 +29,7 @@ import ee.ria.xroad.common.certificateprofile.AuthCertificateProfileInfo;
 import ee.ria.xroad.common.certificateprofile.DnFieldDescription;
 
 /**
- * Default implementation (EJBCA) of AuthCertificateProfileInfo.
+ * Icelandic implementation of AuthCertificateProfileInfo.
  */
 public class IsAuthCertificateProfileInfo extends AbstractCertificateProfileInfo implements AuthCertificateProfileInfo {
 
